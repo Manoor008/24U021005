@@ -64,7 +64,7 @@ PORT=5000
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ansarimanoor786/24U021005.git
+git clone https://github.com/Manoor008/24U021005.git
 cd 24U021005
 ```
 
@@ -170,7 +170,7 @@ Inside the [`lab-assignments/`](lab-assignments/) directory:
 - **Name**: Manoor Sufiyan Ansari
 - **Scholar Number**: 24U021005
 - **Institution**: Indian Institute of Information Technology Bhopal (IIIT Bhopal)
-- **GitHub**: [@ansarimanoor786](https://github.com/ansarimanoor786)
+- **GitHub**: [@Manoor008](https://github.com/Manoor008)
 - **Email**: [ansarimanoor786@gmail.com](mailto:ansarimanoor786@gmail.com)
 
 ---
