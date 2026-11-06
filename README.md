@@ -6,7 +6,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![Flask](https://img.shields.io/badge/Flask-3.0%2B-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Scholar No**: `24U021005` &nbsp;|&nbsp; **Student**: Manoor Sufiyan Ansari  
 **Institute**: Indian Institute of Information Technology Bhopal (IIIT Bhopal)  
@@ -167,7 +166,6 @@ Returns system status, active hardware acceleration device (`cuda` or `cpu`), an
 ```text
 24U021005/
 ├── .gitignore                                 # Git ignore rules for virtual environments & model weights
-├── LICENSE                                    # MIT License
 ├── README.md                                  # Repository overview and quick start guide
 │
 └── news-headline-generator/                   # Core Web Application & NLP Pipeline
@@ -202,9 +200,3 @@ The models are evaluated on the Extreme Summarization (XSum) test split, where t
 - **Institution**: Indian Institute of Information Technology Bhopal (IIIT Bhopal)
 - **GitHub**: [@Manoor008](https://github.com/Manoor008)
 - **Email**: [ansarimanoor786@gmail.com](mailto:ansarimanoor786@gmail.com)
-
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
