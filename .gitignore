@@ -1,0 +1,56 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets & Environment variables
+.env
+*.env
+**/.env
+
+# Jupyter Notebook checkpoints & cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Model checkpoints & heavy weights
+# (Trained models can be downloaded or saved locally)
+t5-headline-mini/
+t5-headline-final/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Logs & temp files
+*.log
+tmp/
+temp/
